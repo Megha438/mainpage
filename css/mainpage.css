@@ -1,0 +1,41 @@
+.maincont{
+  text-align:   center;
+  padding-bottom:   20px;
+  color: #388E3C;
+}
+
+.text-center {
+	font-family: 'sansita', sans-serif;
+}
+@media only screen and (max-width: 420px){
+  .logo{
+    margin-top: 10px;
+  }
+}
+
+#about{
+  margin-top:   30px;
+  width:  90%;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+.card-reveal {
+	color: #004d40;
+	font-family: comic sans ms;
+	//overflow-y: hidden !important;
+}
+
+.card-title {
+	text-align: center;
+	font-family: comic sans ms;
+}
+
+.card-content {
+	font-family: comic sans ms;
+}
+
+.googleMap{
+  pointer-events:   none;
+}
