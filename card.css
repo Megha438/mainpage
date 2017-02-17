@@ -1,0 +1,17 @@
+::-webkit-scrollbar {
+    display: none;
+}
+.card-reveal {
+	color: #004d40;
+	font-family: comic sans ms;
+	//overflow-y: hidden !important;
+}
+
+.card-title {
+	text-align: center;
+	font-family: comic sans ms;
+}
+
+.card-content {
+	font-family: comic sans ms;
+}
